@@ -17,7 +17,7 @@ Illustration:
 Let us understand the working of the algorithm with the help of the following example.
 Step1: Initially queue and visited arrays are empty.
 </p>
-
+`
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8acdebf8-ecc2-4d10-a208-45cce441f059)
 
 
