@@ -82,7 +82,7 @@ D G <BR>
 G F <BR>
 <hr>
 ## program:
-```python
+```
 from collections import deque
 from collections import defaultdict
 
@@ -120,6 +120,7 @@ print(traversedpath)
 <hr>
 
 <hr>
+
 <h3>Sample Input</h3>
 <hr>
 5 6 <BR>
@@ -131,7 +132,7 @@ print(traversedpath)
 3 4 <BR>
 <hr>
 ## program:
-
+```
 from collections import deque
 from collections import defaultdict
 
@@ -165,6 +166,7 @@ print(traversedpath)
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+```
 <hr>
 <h3>Result:</h3>
 <hr>
