@@ -130,7 +130,7 @@ print(traversedpath)
 3 4 <BR>
 <hr>
 ## program:
-```
+~~~
 from collections import deque
 from collections import defaultdict
 
@@ -160,7 +160,7 @@ path = []
 visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
-```
+~~~
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
